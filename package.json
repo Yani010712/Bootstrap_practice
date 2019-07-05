@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap_practice",
+  "version": "1.0.0",
+  "description": "Bootstrap practice galery",
+  "main": "index.js",
+  "repository": "https://github.com/Yani010712/Bootstrap_practice.git",
+  "author": "Yani Rodriguez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+   "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+     "node": ">=11.13.0"
+  }
+}
+
+}
